@@ -15,5 +15,13 @@
     "state"
   ],
   "author": "Wayne Dela Cruz",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.4",
+    "wyndigo-broadcaster": "0.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.8",
+    "typescript": "^3.3.4000"
+  }
 }
