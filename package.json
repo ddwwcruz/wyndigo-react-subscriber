@@ -2,14 +2,15 @@
   "name": "wyndigo-react-subscriber",
   "version": "0.0.1",
   "description": "Subscribe react stateful components to a state",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepublish": "rm -rf dist && ./node_modules/.bin/tsc"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ddwwcruz/wyndigo-react-subscriber.git"
   },
   "keywords": [
     "react",
